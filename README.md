@@ -12,7 +12,7 @@ Este projeto é uma landing page responsiva para um banco, desenvolvida com **Ne
 
 | Desktop | Tablet | Mobile |
 |:-------:|:------:|:------:|
-| ![Desktop View](./assets/desktop-view.png) | ![Tablet View](./assets/tablet-view.png) | ![Mobile View](./assets/mobile-view.png) |
+| ![Desktop View](https://lh3.googleusercontent.com/pw/AP1GczPKk5CH0NnGSM_08ufm38F5x3Se02jiDNu6KTIlyuxjh71ybkx19ijwT6zjvrC1Mfjfw9vUp55XDEkXXULpJpMHrQikYTcvBx89TBgZgj4AFPj1Z9tSHO7-uKBZKpnxCBCSbo4aV2HJcja0J9NhnM60=w1348-h617-s-no-gm?authuser=0) | ![Tablet View](https://lh3.googleusercontent.com/pw/AP1GczO7e0Wh-3NQ9Mro4ia0pqqnnPBmDmZcCSbqSLA5gDkn7yI63S80-s121iq5A1OKZEHaPb6K8z-nOIyx7D8Rd1sTiv-3SbHtI4WfJ48hVQzQtdVl0QtRbapKY3xgCyFQEL06g3gAbQmNXrfU6_fCeCFt=w381-h512-s-no-gm?authuser=0) | ![Mobile View](https://lh3.googleusercontent.com/pw/AP1GczNYXr9DRFJw8Yq8r5OqB-lfusuAHMC6gvOegAdHDNjrRZbxWkU10qvoUwJHjMXWRUuDP8mC5G0xka424nbhlHs-MjGBJYyzWkP5UJLbxE7-tnrsTsSnFh_l2A93S1T5u27oVVAhLd308nWC1Fc_tOjA=w296-h526-s-no-gm?authuser=0) |
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -58,18 +58,31 @@ Certifique-se de ter o **Node.js** e o **npm** (ou **yarn**) instalados em sua m
 ## 🛠️ Estrutura do Projeto
 
 ├── public
+
 │   ├── assets
+
 │       ├── desktop-view.png
+
 │       ├── tablet-view.png
+
 │       └── mobile-view.png
+
 ├── src
+
 │   ├── components
+
 │   ├── pages
+
 │   ├── styles
+
 │   └── utils
+
 ├── .env.example
+
 ├── tailwind.config.js
+
 ├── tsconfig.json
+
 └── package.json
 
 ## 📫 Como Contribuir
