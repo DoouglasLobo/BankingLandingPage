@@ -34,7 +34,7 @@ Certifique-se de ter o **Node.js** e o **npm** (ou **yarn**) instalados em sua m
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/bank-landing-page.git
+   git clone https://github.com/DoouglasLobo/BankingLandingPage
    cd bank-landing-page
    ```
    
@@ -55,43 +55,13 @@ Certifique-se de ter o **Node.js** e o **npm** (ou **yarn**) instalados em sua m
 4. **Acesse a aplicação:**
    Abra o navegador e vá para http://localhost:3000.
 
-## 🛠️ Estrutura do Projeto
-
-├── public
-
-│   ├── assets
-
-│       ├── desktop-view.png
-
-│       ├── tablet-view.png
-
-│       └── mobile-view.png
-
-├── src
-
-│   ├── components
-
-│   ├── pages
-
-│   ├── styles
-
-│   └── utils
-
-├── .env.example
-
-├── tailwind.config.js
-
-├── tsconfig.json
-
-└── package.json
-
 ## 📫 Como Contribuir
 
 Se você deseja contribuir para este projeto, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/bank-landing-page.git
+   git clone https://github.com/DoouglasLobo/BankingLandingPage
    ```
 
 2. **Crie uma nova branch:**
